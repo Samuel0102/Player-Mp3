@@ -3,6 +3,8 @@
 ## Especificações
 *Autor*: Samuel Pacheco Ferreira  
 *Descrição*: Aplicação para reproduzir músicas em formato MP3 a partir de diretório  
+*Andamento*: Basicamente, Finalizado. 
+*Terá atualizações*: Sim, com funcionalidades a mais
 
 ## Tecnologias
 *Linguagem utilizada*: Python 3.8.    
@@ -17,6 +19,7 @@
 * Retomada de música  
 * Pular música  
 * Voltar música  
+* Troca automática de músicas  
 
 ## Requisitos para manipular código
 * Nenhum requisito
