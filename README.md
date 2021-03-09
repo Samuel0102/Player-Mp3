@@ -3,7 +3,7 @@
 ## Especificações
 *Autor*: Samuel Pacheco Ferreira  
 *Descrição*: Aplicação para reproduzir músicas em formato MP3 a partir de diretório  
-*Andamento*: Basicamente, Finalizado. 
+*Andamento*: Basicamente, Finalizado.   
 *Terá atualizações*: Sim, com funcionalidades a mais
 
 ## Tecnologias
